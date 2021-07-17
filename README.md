@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href=" " target="_blank">
- <img align="center" alt="vanderson-instagram" height="30" width="40" src="https://img.icons8.com/ios-glyphs/2x/instagram-new.png">
+ <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/ios-glyphs/2x/instagram-new.png">
 </a>
 
 ## Languages and Tools:
