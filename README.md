@@ -31,6 +31,9 @@
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></img>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></img>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"></img>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vanderson10&repo=github-readme-stats)](https://github.com/Vanderson10/github-readme-stats)
+
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
