@@ -2,7 +2,7 @@
 
 - I live in :brazil:, northeast 😎:sunrise:
 - always seeking to undertake :chart_with_upwards_trend::stuck_out_tongue_winking_eye:
-- I love learning new things :books::memo::pencil:
+- I love learning new things :books::memo:
 - I may not know today, but I learn and resolve tomorrow :stuck_out_tongue_winking_eye:	:monocle_face::nerd_face:
 
 
