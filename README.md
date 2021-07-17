@@ -2,6 +2,12 @@
 
 - I live in :brazil:, northeast 😎:sunrise:
 
+
+## Connect with me:
+<a href=" " target="_blank">
+ <img align="center" alt="vanderson-instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png">
+</a>
+
 ## Languages and Tools:
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
