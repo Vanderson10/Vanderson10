@@ -16,10 +16,10 @@
  <img align="center" alt="vanderson-linkedin" height="40" width="40" src="https://img.icons8.com/material-sharp/2x/linkedin--v2.gif">
 </a>
 
-#### my site:
+### my site:
  <a href="https://www.vandersonar.tk/">Vanderson</a>
 
-## Languages and Tools:
+## my skills:
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
