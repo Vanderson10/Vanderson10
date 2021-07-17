@@ -1,6 +1,6 @@
 # Hi there, i'm Vanderson! 👋
 
-- I live in brazil:, northeast 😎:sunrise:
+- I live in :brazil:, northeast 😎:sunrise:
 
 ## Languages and Tools:
 <!--
