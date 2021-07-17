@@ -19,9 +19,6 @@
  <img align="center" alt="vanderson-linkedin" height="40" width="40" src="https://img.icons8.com/material-sharp/2x/linkedin--v2.gif">
 </a>
 
-### my site:
- <a href="https://www.vandersonar.tk/">Vanderson</a>
-
 ## my skills:
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></img>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></img>
