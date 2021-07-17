@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, i'm Vanderson! 👋
 
+- I live in:brasil:, northeast 😎::sunrise:
+
+## Languages and Tools:
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
