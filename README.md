@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.instagram.com/vanderson_ar/" target="_blank">
- <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/material-outlined/2x/instagram-new--v2.gif">
+ <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/ios/2x/instagram-new--v3.gif">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5583991484268&text=Ol%C3%A1%2C%20Vanzinho%20tudo%20show" target="_blank">
