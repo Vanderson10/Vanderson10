@@ -1,4 +1,4 @@
-# Hi there, i'm Vanderson! 👋
+# Hi there, I'm Vanderson! 👋
 
 - I live in :brazil:, northeast 😎:sunrise:
 
