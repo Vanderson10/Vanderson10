@@ -13,7 +13,7 @@
 </a>
 
 <a href=" " target="_blank">
- <img align="center" alt="vanderson-linkedin" height="40" width="40" src="https://icons8.com.br/icon/Zmq8UwmfMf8B/linkedin--v2">
+ <img align="center" alt="vanderson-linkedin" height="40" width="40" src="https://img.icons8.com/material-sharp/2x/linkedin--v2.gif">
 </a>
 
 
