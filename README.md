@@ -8,6 +8,15 @@
  <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/ios-glyphs/2x/instagram-new.png">
 </a>
 
+<a href=" " target="_blank">
+ <img align="center" alt="vanderson-whatsapp" height="40" width="40" src="https://img.icons8.com/material-outlined/2x/whatsapp--v3.gif">
+</a>
+
+<a href=" " target="_blank">
+ <img align="center" alt="vanderson-linkedin" height="40" width="40" src="https://img.icons8.com/material-rounded/2x/linkedin.png">
+</a>
+
+
 ## Languages and Tools:
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
