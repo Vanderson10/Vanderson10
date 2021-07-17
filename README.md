@@ -5,8 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.instagram.com/vanderson_ar/" target="_blank">
- <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/material-outlined/2x/instagram-new--v2.gif"
-      style="max-widht:100%;">
+ <img align="center" alt="vanderson-instagram" height="40" width="40" src="https://img.icons8.com/material-outlined/2x/instagram-new--v2.gif">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5583991484268&text=Ol%C3%A1%2C%20Vanzinho%20tudo%20show" target="_blank">
@@ -21,7 +20,7 @@
  <a href="https://www.vandersonar.tk/">Vanderson</a>
 
 ## my skills:
-<a <img align="center" height="40" width="40" src="https://img.icons8.com/material-sharp/2x/linkedin--v2.gif"> </a>
+<a <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </a>
 <!--
 **Vanderson10/Vanderson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
