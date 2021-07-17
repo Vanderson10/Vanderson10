@@ -5,6 +5,9 @@
 - I love learning new things :books::memo::sparkling_heart:
 - I may not know today, but I learn and resolve tomorrow :stuck_out_tongue_winking_eye::monocle_face::nerd_face:
 
+# FORMATION:
+- Graduated in Information Technology at the Federal Institute of Paraíba.
+- studying Computer Science at the Federal University of Campina Grande.
 
 ## Connect with me:
 <a href="https://www.instagram.com/vanderson_ar/" target="_blank">
