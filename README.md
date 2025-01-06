@@ -32,9 +32,6 @@
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></img>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanderson10)](https://github.com/Vanderson10/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanderson10&show_icons=true&theme=radical)
-
 
 
 
